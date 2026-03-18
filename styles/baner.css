@@ -36,7 +36,7 @@ overflow: hidden;
 }
 
 
-@keyframes bg-gradiente{
+@keyframes bg-gradient{
 
 50%{
  background-position: 100% 50%;

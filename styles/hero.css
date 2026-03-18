@@ -171,6 +171,7 @@ opacity: 1;
 transform: translateY(0);
 }
 
+
 /*divertida in*/
 23%{
 transform: translateY(calc(-5rem - 15px));
